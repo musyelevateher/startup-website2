@@ -1,6 +1,5 @@
 # startup-website2
-# Startup-website
-**Description**: This project is a web page designed using React featuring a responsive layout and modern design elements which include mobile  and desktop view. It include react making the Harmburger-menu interactive.
+**Description**: This project is a web page designed using React featuring a responsive layout and modern design elements which include mobile  and desktop view. Components and Hooks were used,the input fields on the Contact Us page are being tracked using the useState hook.The website was designed with animation using Framer motion.Acustom map was incorporated that displays office address as the location marker
 
 ## Table of Contents
 
@@ -19,23 +18,18 @@
 ## Overview
 This project is built using React.It provides a visually appealing,responsive layout, interactive for a web page. It includes sections such as:
 - A header with navigation.
-- A Herosection.js with large headings and background images.
-- A "Chat.js" section with descriptions.
-- A "Researchers.js" section highlighting features.
-- A "Read.js" section with image and content.
-- A "joint.js" section with image and content.
-- A "Team.js" section with image and content.
+- A Herosection.js with headings.
+- A "Service.js" section with descriptions.
+- A "Contact.js" incorporated with Map.
 - A "Footer.js" with additional links and information.
 
 ## Live-demo
-- Check out the live Demo of the project: [Live Demo] https://startup-website-r1tt.onrender.com
--  A live video using loom: link to loom https://www.loom.com/share/19f7d74d31f4445083894aca4c1e24c3?sid=6114b588-4c56-4cf3-93ab-f3ba2c83ce32
-
+- Check out the live Demo of the project: [Live Demo] 
+-  A live video using loom: link to loom 
 ## Technologies Used
 
--React
--CSS
 -JSX
+-CSS
 -Responsive Design
 
 ## Features
@@ -49,11 +43,11 @@ This project is built using React.It provides a visually appealing,responsive la
 
 1. **Clone the Repository**:
 ```sh
-git clone https://github.com/musyelevateher/Startup-website.git
+git clone https://github.com/musyelevateher/startup-website2.git
 ```
 2. **Navigate to the project Directory**:
 ```sh
-cd startup-website-I
+cd startup-website2
 ```
 3. **Start the developer server**:
 npm start
@@ -62,10 +56,9 @@ npm start
 
 Include screenshots or GIFs of your project in action. This helps users understand what your project looks like and how it functions.
 
-![Screenshot 1] ![alt text](<Screenshot (55).png>)
-![Screenshot 2] ![alt text](<Screenshot (56).png>)
-![Screenshot 3] ![alt text](<Screenshot (61).png>)
-
+![Screenshot 1] 
+![Screenshot 2] 
+![Screenshot 3] 
 
 
 ## License
