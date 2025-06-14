@@ -1,5 +1,5 @@
 # startup-website2
-**Description**: This project is a web page designed using React featuring a responsive layout and modern design elements which include mobile  and desktop view. Components and Hooks were used,the input fields on the Contact Us page are being tracked using the useState hook.The website was designed with animation using Framer motion.Acustom map was incorporated that displays office address as the location marker
+**Description**: This project is a web page designed using React featuring a responsive layout and modern design elements which include mobile  and desktop view. Components and Hooks were used,the input fields on the Contact Us page are being tracked using the useState hook.The website was designed with animation using Framer motion.A custom map was incorporated that displays office address as the location marker
 
 ## Table of Contents
 
@@ -56,9 +56,9 @@ npm start
 
 Include screenshots or GIFs of your project in action. This helps users understand what your project looks like and how it functions.
 
-![Screenshot 1] 
-![Screenshot 2] 
-![Screenshot 3] 
+![Screenshot 1] ![alt text](<Screenshot (65).png>)
+![Screenshot 2] ![alt text](<Screenshot (66).png>)
+![Screenshot 3] ![alt text](<Screenshot (67).png>)
 
 
 ## License

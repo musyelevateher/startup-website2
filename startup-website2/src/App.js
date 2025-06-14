@@ -6,8 +6,8 @@ import Contact from './components/pages/Contact';
 function App() {
   return (
     <div>
-      {/*<Home /> */}
-      <Contact />
+      <Home /> 
+      {/*<Contact /> */}
       
         
        

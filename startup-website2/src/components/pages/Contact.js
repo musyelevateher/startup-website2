@@ -19,7 +19,7 @@ const handleSubmit = (e) => {
     e.preventDefault();
     alert('Message sent!');
   };
-const position = [12.0131, 8.5674]; // Giginyu, Kano, Nigeria
+const position = [12.0246, 8.5912]; // Tokarawa, Kano, Nigeria
 
   return (
     <div>
@@ -73,14 +73,14 @@ const position = [12.0131, 8.5674]; // Giginyu, Kano, Nigeria
           </motion.button>
         </form>
         <div className="map-section">
-          <MapContainer center={position} zoom={13} style={{ height: "220px", width: "100%", marginTop: "20px", borderRadius: "12px" }}>
+          <MapContainer center={position} zoom={13} style={{ height: "250px", width: "100%", marginTop: "20px", borderRadius: "12px" }}>
             <TileLayer
               attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
               url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             <Marker position={position}>
               <Popup>
-                Our Office Location
+                Tokarawa  -My Home
               </Popup>
             </Marker>
           </MapContainer>
