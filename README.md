@@ -24,8 +24,8 @@ This project is built using React.It provides a visually appealing,responsive la
 - A "Footer.js" with additional links and information.
 
 ## Live-demo
-- Check out the live Demo of the project: [Live Demo] https://startup-website2.onrender.com
--  A live video using loom: link to loom https://www.loom.com/share/eaeaae5d4582445f82c04d1531859ce7?sid=9dc0a8d5-f95c-4694-8c43-5b5d54293c9e
+- Check out the live Demo of the project: [Live Demo](https://startup-website2.onrender.com)
+-  A live video using loom: link to loom(https://www.loom.com/share/eaeaae5d4582445f82c04d1531859ce7?sid=9dc0a8d5-f95c-4694-8c43-5b5d54293c9e)
 ## Technologies Used
 
 -JSX
