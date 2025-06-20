@@ -1,0 +1,36 @@
+.hero{
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;    
+}
+.how {
+  color: #74C69D;
+  font-family: Work Sans;
+  font-weight: 700;
+}
+.we { 
+  font-family: Work Sans;
+  color: #000000;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: -10px;
+}
+.lo {
+  font-family: Crimson Text;
+  font-weight: 400;
+  
+  font-size: 18px;
+  margin: 0 auto;text-align: center;
+  word-break:break-word
+}
+
+@media (min-width: 1024px) {
+  .lo { 
+    
+    font-size: 15px;
+  }
+  .we {
+    font-size: 30px;
+  }
+}
